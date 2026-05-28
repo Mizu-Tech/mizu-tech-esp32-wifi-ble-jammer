@@ -55,11 +55,11 @@ Firmware : esp32-jammer-lcd-v1.0 (FREE)
 </blockquote>
 Firmware : esp32-jammer-lcd-v4.0 (PAID)
 <blockquote>
-<a href="https://web-flasher-esp32-v2-0.vercel.app">Web flasher 2</a>
+<a href="https://firmware-esp32-jammer-lcd.vercel.app">Web flasher 2</a>
 </blockquote>
 Firmware : esp32-jammer-oled-v4.0 (PAID)
 <blockquote>
-<a href="https://web-flasher-esp32-v5-0.vercel.app">Web flasher 3</a>
+<a href="https://firmware-esp32-jammer-oled.vercel.app">Web flasher 3</a>
 </blockquote>
 <h4 align="left">Paid flasher cannot be accessed if using a github account that is not registered as a buyer.</h4>
 
