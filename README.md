@@ -51,7 +51,7 @@ Thank you for your support ^_^
 
 Firmware : esp32-jammer-lcd-v1.0 (FREE)
 <blockquote>
-<a href="https://web-flasher-esp32-v1-0.vercel.app">Web flasher 1</a>
+<a href="https://flasher-esp32-jammer-free.vercel.app">Web flasher 1</a>
 </blockquote>
 Firmware : esp32-jammer-lcd-v4.0 (PAID)
 <blockquote>
