@@ -212,7 +212,7 @@ After the wiring and pin configuration process is complete, open the web flasher
 <h4 align="left">Requirements</h4>
 <ul>
   <li><a href="https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip">CH340 driver</a></li>
-  <li><a href="https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip">CP2102 driver</a></li>
+  <li><a href="https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip">CP2102 driver</a></li>
   <li>USB data cable</li>
 </ul>
 
