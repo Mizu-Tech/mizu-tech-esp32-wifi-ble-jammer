@@ -272,6 +272,8 @@ LCD version review is in the DEMO video, or click here <a href="https://www.tikt
 
 <h1 align="left">Similiar Project</h1>
 <a href="https://github.com/Mizu-Tech/mizu-tech-esp32-wifi-deauther.git">ESP32 Deauther</a>
+<br>
+<a href="https://github.com/Mizu-Tech/mizu-tech-esp32-ble-jammer-wifi-deauther.git">ESP32 Jammer & Deauther</a>
 
 <h1 align="left">Social Media</h1>
 <a href="https://www.tiktok.com/@azfamahardika__">TikTok</a> <br>
