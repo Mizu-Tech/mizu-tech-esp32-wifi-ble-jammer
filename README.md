@@ -14,7 +14,13 @@
 <h1 align="left">ESP32 WIFI BLUETHOOTH JAMMER 2.4GHz</h1>
 <h4 align="left">
 There are three firmware versions each of them can be compiled with a web flasher. One is free as a trial while the other two are paid versions which I use to buy a coffee☕
+  <br>
+  <br>
+  Read till the end for the complete guide, make sure you don't miss any part.
 </h4>
+
+<h1 align="left">Changelog</h1>
+<p>-</p>
 
 <h1 align="left">Firmware Price List</h1>
 <blockquote>
@@ -263,6 +269,9 @@ LCD version review is in the DEMO video, or click here <a href="https://www.tikt
 <blockquote><h4 align="left">If the power supply voltage doesn't reach 5V, I recommend purchasing a boost converter to increase the voltage to 5V. However, if the voltage is above 5V, it's best to purchase a buck converter to lower the voltage so your ESP32 doesn't burn out.</h4></blockquote>
 <blockquote><h4 align="left"> If the NRF24 or ML01DP5 is powered directly from the battery, ensure the voltage is at 3.3V (3.6V is the maximum). Anything below this limit will reduce jamming performance, including range. Too high a voltage can also cause the module to burn out.</h4></blockquote>
 <blockquote><h4 align="left">Please note, the quality of the noise produced is not only determined by the firmware (code), but also by the most important hardware (module, power, chip, etc.). Make sure the wiring is done carefully.</h4></blockquote>
+
+<h1 align="left">Similiar Project</h1>
+<a href="https://github.com/Mizu-Tech/mizu-tech-esp32-wifi-deauther.git">ESP32 Jammer</a>
 
 <h1 align="left">Social Media</h1>
 <a href="https://www.tiktok.com/@azfamahardika__">TikTok</a> <br>
