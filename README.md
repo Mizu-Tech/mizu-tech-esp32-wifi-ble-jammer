@@ -271,7 +271,7 @@ LCD version review is in the DEMO video, or click here <a href="https://www.tikt
 <blockquote><h4 align="left">Please note, the quality of the noise produced is not only determined by the firmware (code), but also by the most important hardware (module, power, chip, etc.). Make sure the wiring is done carefully.</h4></blockquote>
 
 <h1 align="left">Similiar Project</h1>
-<a href="https://github.com/Mizu-Tech/mizu-tech-esp32-wifi-deauther.git">ESP32 Jammer</a>
+<a href="https://github.com/Mizu-Tech/mizu-tech-esp32-wifi-deauther.git">ESP32 Deauther</a>
 
 <h1 align="left">Social Media</h1>
 <a href="https://www.tiktok.com/@azfamahardika__">TikTok</a> <br>
